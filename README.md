@@ -17,13 +17,22 @@
 ---
 
 ### 👩‍💻 About Me:
-- 🎓 Computer Programming Diploma @ Sheridan College (2024–2025)
-- 💻 Java & .NET Developer with 1+ year of experience
-- 🌱 Currently learning Azure, Blazor, and Microservices
-- 🔧 Love solving problems with clean, scalable code
-- 📬 Reach me at: bhoomikirtanpatel@gmail.com
+## 👋 Hi, I’m a Full Stack Developer
 
----
+🔭 1 year of experience working as a **Full Stack Developer** with hands-on skills in both frontend and backend technologies.
+
+💡 Experience in designing, developing, and maintaining web applications, along with integrating APIs, writing clean code, and collaborating in Agile teams.
+
+🤝 Strong communication and teamwork skills, with a proactive attitude and eagerness to learn and grow in real-world software development environments.
+
+🚀 Comfortable working independently or as part of a team to deliver high-quality solutions.
+
+📫 **How to reach me:**
+
+<a href="https://www.linkedin.com/in/bhoomipatel1209/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 
 ---
 ## 🛠️ Skills

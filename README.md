@@ -7,9 +7,6 @@
   <img src="https://cdn.dribbble.com/users/129972/screenshots/4423840/girl-coding.gif" width="300" />
 </p>
 
-
-
-
 ---
 
 ### 👩‍💻 About Me:

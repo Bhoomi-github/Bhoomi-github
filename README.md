@@ -4,13 +4,7 @@
 <h3 align="center">.NET | Java | Spring Boot | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhoomipatel1209/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="300" />
 </p>
 
 

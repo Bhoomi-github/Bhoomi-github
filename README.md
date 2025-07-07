@@ -4,8 +4,9 @@
 <h3 align="center">.NET | Java | Spring Boot | Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/129972/screenshots/4423840/girl-coding.gif" width="300" />
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="300" />
 </p>
+
 
 ---
 
